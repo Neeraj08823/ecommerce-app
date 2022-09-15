@@ -3,6 +3,6 @@
 <p>Tech Stack :- HTML5, Tailwind CSS, JavaScript, React Js</p>
 <p>Role :- Software Developer</p>
 
-<img src=" "/>
-<img src=" "/>
-<img src=" "/>
+<img src="./src/img/1kart.png"/>
+<img src="./src/img/2kart.png"/>
+<img src="./src/img/3kart.png"/>
